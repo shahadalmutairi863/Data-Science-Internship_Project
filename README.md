@@ -20,7 +20,7 @@ Data Science Graduate | Aspiring Data Scientist
 ---
 
 ## 🧭 Project Summary
-This portfolio captures a real-world transformation inside a humanitarian organization, where I redesigned the data workflow into a scalable, automated, and insight-driven system.
+This project captures a real-world transformation inside a humanitarian organization, where I redesigned the data workflow into a scalable, automated, and insight-driven system.
 
 ---
 
