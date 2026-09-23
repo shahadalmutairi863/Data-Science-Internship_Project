@@ -14,8 +14,7 @@ A high-impact Data Science project showcasing a real-world internship at the Sau
 ---
 
 ## 👩‍💻 Author
-**Shahad Almutairi**  
-Data Science Graduate | Aspiring Data Scientist  
+**Shahad Fahad Almutairi**  
 
 ---
 
